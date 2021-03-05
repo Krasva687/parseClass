@@ -1,4 +1,4 @@
-# parseClass  
+# parseHTMLClass  
 class to parse html file by tag section  
 You can create class with file name(it can be String or File type) and do not set the tag values by which you want to parse file or  
 you can set tag name when you create class, after file name  
