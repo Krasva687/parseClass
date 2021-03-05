@@ -4,7 +4,7 @@ You can create class with file name(it can be String or File type) and do not se
 you can set tag name when you create class, after file name  
 examples:  
 _________1______________    
-**ParseFileByTag pfbt = new ParseFileByTag("C:\\test\\test.html")  
+**ParseFileByTag pfbt = new ParseFileByTag("C:\\\\test\\\\test.html")  
 pfbt.parseAllFile();**  
 \\after that in console you will see first tag sections, which was be in that file  
 ________________________  
