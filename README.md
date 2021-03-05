@@ -10,7 +10,7 @@ pfbt.parseAllFile();**
 ________________________  
 ________2_______________  
   
-**ParseFileByTag pfbt = new ParseFileByTag("C:\\test\\test.html", "div")  
+**ParseFileByTag pfbt = new ParseFileByTag("C:\\\\test\\\\test.html", "div")  
 pfbt.parseAllFile();**  
 \\after that in console you will see sections of tag "**div**", which was be in that file  
   
